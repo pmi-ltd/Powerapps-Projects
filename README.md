@@ -5,7 +5,7 @@ Powerapp which a was asked to create, this is a working app and just needed the 
 The SafetyCross Flow (zip) would need importing into Power Automate, then open the flow and remove "Add your site" and replace it with the location where you wish to store the data then run the flow
 
 ## Deployment Instructions
-1.  Download the Time Off Zip File
+1.  Download the SafetyCross mspp file
 2.  Go to make.powerapps.com
 3.  Click on the Apps tabs on the left hand rail
 4.  Click 'Import Canvas App' in the ribbon and browse to the Time Off App Zip File
