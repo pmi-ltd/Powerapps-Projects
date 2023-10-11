@@ -2,8 +2,7 @@
 Powerapp which a was asked to create, this is a working app and just needed the Sharepoint list to be connected
 
 ## SharePoint Instructions
-Create a Sharepoint list callect SafetyList then add a column called State, then add the connection in Powerapps to link the datasource
-All the code is working just make it as you wish to look
+Create a Sharepoint list callect SafetyList then add a column called State
 
 ## Deployment Instructions
 1.  Download the Time Off Zip File
