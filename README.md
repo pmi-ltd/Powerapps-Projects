@@ -1,8 +1,8 @@
-# SafetyCross
+## SafetyCross
 Powerapp which a was asked to create, this is a working app and just needed the Sharepoint list to be connected
 
 ## SharePoint Instructions
-Create a Sharepoint list callect SafetyList then add a column called State
+The SafetyCross Flow (zip) would need importing into Power Automate, then open the flow and remove "Add your site" and replace it with the location where you wish to store the data then run the flow
 
 ## Deployment Instructions
 1.  Download the Time Off Zip File
